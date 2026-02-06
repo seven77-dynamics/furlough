@@ -1,4 +1,4 @@
-<script>
+
   (function () {
   try {
     const u = new URL(window.location.href);
@@ -29,4 +29,4 @@
   }
 
 })();
-</script>
+
